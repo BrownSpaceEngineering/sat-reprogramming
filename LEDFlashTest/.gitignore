@@ -1,0 +1,4 @@
+# Atmel build locations
+.vs/
+LEDFlashTest/Debug/
+LEDFlashTest/Release/
