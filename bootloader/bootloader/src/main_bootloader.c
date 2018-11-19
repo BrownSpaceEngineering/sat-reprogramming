@@ -8,7 +8,7 @@
 #include "Bootloader/Watchdog_Commands.h"
 
 /* CONFIG */
-#define ENABLE_REWRITE_FROM_MRAM
+//#define ENABLE_REWRITE_FROM_MRAM
 #define BOOT_TO_PROG
 //#define WRITE_PROG_MEM_TO_MRAM
 //#define CONFIRM_PROG_MEM_MRAM_WRITE
